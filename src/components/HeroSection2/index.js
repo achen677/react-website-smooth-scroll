@@ -5,11 +5,11 @@ import {
   HeroContainer,
 } from "./HeroElements";
 
-import car1 from "../../images/cf1.jpg";
-import car2 from "../../images/cf2.jpg";
-import car3 from "../../images/cf3.jpg";
+import car1 from "../../images/wh1.png";
+import car2 from "../../images/wh2.png";
+import car3 from "../../images/wh3.png";
 
-function HeroSection() {
+function HeroSection2() {
   const [hover, setHover] = useState(false);
   const onHover = () => {
     setHover((prev) => !prev);
@@ -34,4 +34,4 @@ function HeroSection() {
   );
 }
 
-export default HeroSection;
+export default HeroSection2;

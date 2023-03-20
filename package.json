@@ -27,12 +27,15 @@
     ]
   },
   "dependencies": {
+    "better-react-carousel": "^1.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "react-scroll": "^1.8.1"
+    "react-scroll": "^1.8.1",
+    "react-snap-scroll": "^0.0.5",
+    "react-use-scroll-snap": "^0.0.4"
   },
   "devDependencies": {
     "@craco/craco": "^6.0.0",
